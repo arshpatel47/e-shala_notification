@@ -1,0 +1,44 @@
+/* The alert message box */
+.alert {
+    padding: 20px;
+    background-color: #f3c80a; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }
+.box{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 15px;
+    color: rgb(233, 19, 19);
+}
+h3{
+    color: darkblue;
+}
+.image_notification
+{
+    color: rgb(0, 0, 0);
+    text-align: right;
+    size: 10px;
+
+}
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
